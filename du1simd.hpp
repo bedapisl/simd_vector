@@ -3,10 +3,6 @@
 
 #include <iterator>
 #include <memory> 		//for align()
-	//for debugging:
-//#include <cstdlib>
-//#include <stdlib.h>
-//#include <iostream>
 
 template <typename T, typename S>
 class simd_vector_iterator;
